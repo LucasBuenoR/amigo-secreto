@@ -1,7 +1,7 @@
 # Desafio Amigo Secreto
 #### Um projeto simples para sortear amigos secretos de forma aleatória. Desenvolvido com HTML, CSS e JavaScript.
 
-### Como programa funciona
+### Como o programa funciona
 - Adicionar nomes de amigos à lista.
 - Sortear um amigo secreto aleatoriamente.
 - Exibir o resultado do sorteio na tela.
@@ -18,4 +18,4 @@
    - O nome do amigo secreto sorteado será exibido na tela.
 
 ### Caminho do repositório
-*git clone https://github.com/LucasBuenoR/amigo-secreto.git*
+git clone *https://github.com/LucasBuenoR/amigo-secreto.git*
